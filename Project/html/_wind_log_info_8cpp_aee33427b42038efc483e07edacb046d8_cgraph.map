@@ -1,0 +1,6 @@
+<map id="operator&gt;&gt;" name="operator&gt;&gt;">
+<area shape="rect" id="node1" title="Input file operator." alt="" coords="5,56,91,83"/>
+<area shape="rect" id="node2" href="$class_wind_log_info.html#abded7cd4bfb889cda2b66e2ba78dc050" title="Set a new ambient air temperature for WindLogInfo class object." alt="" coords="149,5,287,32"/>
+<area shape="rect" id="node3" href="$class_wind_log_info.html#aa249bebf5d60c222a527ee415c1786c9" title="Set a new solar radiation for WindLogInfo class object." alt="" coords="143,56,293,83"/>
+<area shape="rect" id="node4" href="$class_wind_log_info.html#aa08e8a6ecf051cabb4d7ab7fb35ddfba" title="Set a new speed for WindLogInfo class object." alt="" coords="139,107,297,133"/>
+</map>

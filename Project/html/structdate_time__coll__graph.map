@@ -1,0 +1,5 @@
+<map id="dateTime" name="dateTime">
+<area shape="rect" id="node1" title=" " alt="" coords="93,380,167,457"/>
+<area shape="rect" id="node2" href="$class_time.html" title="Represent the Time of marks were obtained." alt="" coords="5,71,108,251"/>
+<area shape="rect" id="node3" href="$class_date.html" title="Represent the date of marks were obtained." alt="" coords="132,5,275,317"/>
+</map>

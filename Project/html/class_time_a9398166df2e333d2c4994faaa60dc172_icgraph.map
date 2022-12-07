@@ -1,0 +1,4 @@
+<map id="Time::Clear" name="Time::Clear">
+<area shape="rect" id="node1" title="Set all the member variables of Time object to default value." alt="" coords="140,5,228,32"/>
+<area shape="rect" id="node2" href="$class_time.html#a4245e409c7347d1d671858962c2ca3b5" title="Create Time object with default value." alt="" coords="5,5,92,32"/>
+</map>

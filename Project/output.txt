@@ -1,0 +1,9 @@
+Speed: 6
+Solar radiation: 200
+Ambient air temperature: 20.75
+Speed: 5
+Solar radiation: 250
+Ambient air temperature: 21.55
+Speed: 6
+Solar radiation: 300
+Ambient air temperature: 22.65

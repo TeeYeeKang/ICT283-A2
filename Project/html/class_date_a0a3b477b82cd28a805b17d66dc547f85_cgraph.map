@@ -1,0 +1,5 @@
+<map id="Date::SetDay" name="Date::SetDay">
+<area shape="rect" id="node1" title="Set a new day for Date class object." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$class_date.html#af50a4dbfe36af0353dec544da6c59a64" title="Check for valid date." alt="" coords="153,5,267,32"/>
+<area shape="rect" id="node3" href="$class_date.html#ae41d5fae56c60b88d24825354759d1da" title="Check for leap year." alt="" coords="315,5,437,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Date::IsLeapYear" name="Date::IsLeapYear">
+<area shape="rect" id="node1" title="Check for leap year." alt="" coords="627,119,749,145"/>
+<area shape="rect" id="node2" href="$class_date.html#af50a4dbfe36af0353dec544da6c59a64" title="Check for valid date." alt="" coords="465,119,579,145"/>
+<area shape="rect" id="node3" href="$class_date.html#a987099ea1bdab191110626384e79fc4d" title="Date class constructor with parameters." alt="" coords="319,43,403,69"/>
+<area shape="rect" id="node9" href="$class_date.html#ad62ff590543681469652347d01139092" title="Set a new date for Date class object." alt="" coords="309,195,413,221"/>
+<area shape="rect" id="node11" href="$class_date.html#a0a3b477b82cd28a805b17d66dc547f85" title="Set a new day for Date class object." alt="" coords="311,93,411,120"/>
+<area shape="rect" id="node12" href="$class_date.html#af45ab76583240d653539622ccc625e33" title="Set a new month for Date class object." alt="" coords="304,144,417,171"/>
+<area shape="rect" id="node4" href="$bst_test_8cpp.html#a86e9bf1fb72ba43f8c7cffbca6360a9b" title=" " alt="" coords="156,5,231,32"/>
+<area shape="rect" id="node6" href="$class_date.html#a9670032b412f1c736a896a14a253e654" title="Get the Date object." alt="" coords="131,56,256,83"/>
+<area shape="rect" id="node8" href="$_date_test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="168,132,219,159"/>
+<area shape="rect" id="node5" href="$bst_test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="19,5,69,32"/>
+<area shape="rect" id="node7" href="$_date_8cpp.html#a8baf9fb50ff0acb76c64a77ba1f51629" title="Overload operator." alt="" coords="5,56,83,83"/>
+<area shape="rect" id="node10" href="$_date_8cpp.html#a8576024c4c197a313e26cd753347db6c" title="Input file operator." alt="" coords="151,195,236,221"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="operator==" name="operator==">
+<area shape="rect" id="node1" title="Overload operator." alt="" coords="5,56,91,83"/>
+<area shape="rect" id="node2" href="$class_date.html#a6304a67f1c13b239eb8e80ad68161e40" title="Get the day of the date when the marks were obtained." alt="" coords="145,5,247,32"/>
+<area shape="rect" id="node3" href="$class_date.html#af2dcc6ce51dbb2bd798499a149bdffb7" title="Get the month of the date when marks were obtained." alt="" coords="139,56,253,83"/>
+<area shape="rect" id="node4" href="$class_date.html#ad79ce504482f317ddcfdc4ecad77671f" title="Get the year of the date when marks were obtained." alt="" coords="143,107,249,133"/>
+</map>

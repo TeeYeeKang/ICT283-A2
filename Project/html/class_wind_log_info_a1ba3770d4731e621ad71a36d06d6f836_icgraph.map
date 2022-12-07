@@ -1,0 +1,4 @@
+<map id="WindLogInfo::Clear" name="WindLogInfo::Clear">
+<area shape="rect" id="node1" title="Set all the member variables of WindLogInfo object to the default value." alt="" coords="225,5,356,32"/>
+<area shape="rect" id="node2" href="$class_wind_log_info.html#a30c062e8d28c0c2844ec2bd541773666" title="Default WindLogInfo class constructor." alt="" coords="5,5,177,32"/>
+</map>

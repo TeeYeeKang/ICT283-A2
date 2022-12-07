@@ -1,0 +1,69 @@
+Stundet name: Tee Yee Kang
+Student ID: 34315323
+
+Assignment 2 Evaluation
+
+1. Declaration: The entire submission has been checked for no malware.
+
+2. All the functions and requirements specify in the Assignment 2 question sheet are work. 
+
+3. Read data from multiple data file by using the met_index.txt - work
+
+4. Ignore duplicate file name in the met_index.txt file- work
+
+5. Automatically display the menu after readind all data - work
+
+6. Continuously display the menu after each option is completed - work
+
+7. Program stop executing after the user select option 6 to quit - work
+   
+8. Invalid option handling when user enters option apart from number 1-6 - work
+
+9. Handling non-numeric values ​​at the menu stage - work
+
+10. Display the number of file reads and the number of failed file reads - work
+
+11. Option 1 - work
+
+12. Option 1 (no data) - work
+
+13. Option 1 (invalid date) - work
+
+14. Option 2 - work
+
+15. Option 2 (no data) - work
+
+16. Option 3 - work
+
+17. Option 3 (no data) - work
+
+18. Option 4 - work
+
+19. Option 4 (no data) - work
+
+20. Option 5 - work
+
+21. Option 5 (no data) - work
+
+22. Option 5 (no duplicate record) - work
+
+23. Use bst and map in option 1-4 - work
+
+24. Program calculate and output correct data - work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

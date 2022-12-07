@@ -1,0 +1,4 @@
+<map id="CollectData::Max" name="CollectData::Max">
+<area shape="rect" id="node1" title="A static function to find max value." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$class_value.html#a2dfe8fb4072d544368a4287d3f857585" title="Getter function to get the value of member variable m_value." alt="" coords="176,5,293,32"/>
+</map>

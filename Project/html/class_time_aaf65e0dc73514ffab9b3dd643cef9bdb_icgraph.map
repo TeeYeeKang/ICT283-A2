@@ -1,0 +1,5 @@
+<map id="Time::GetHour" name="Time::GetHour">
+<area shape="rect" id="node1" title="Get the hour of Time object." alt="" coords="264,5,371,32"/>
+<area shape="rect" id="node2" href="$_time_8cpp.html#a9dbfd89d5da00d38aa2d35c8fce2bbad" title="Overload operator." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="node3" href="$_time_8cpp.html#a521832df96c9f880d72d38974887aab2" title="Overload operator." alt="" coords="131,31,216,57"/>
+</map>

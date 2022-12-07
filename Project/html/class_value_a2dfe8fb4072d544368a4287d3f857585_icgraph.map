@@ -1,0 +1,5 @@
+<map id="Value::GetValue" name="Value::GetValue">
+<area shape="rect" id="node1" title="Getter function to get the value of member variable m_value." alt="" coords="177,31,295,57"/>
+<area shape="rect" id="node2" href="$class_collect_data.html#aa80155a0d2f5137a6cfd0991168219ac" title="A static function to find max value." alt="" coords="6,5,129,32"/>
+<area shape="rect" id="node3" href="$class_collect_data.html#ab31171c5591e03c9f6452f5f291c8ec1" title="A static function to calculate running total." alt="" coords="5,56,129,83"/>
+</map>
